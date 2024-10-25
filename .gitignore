@@ -1,6 +1,8 @@
 # .gitignore
 
 minipass-env/
+dist/
+build/
 
 __pycache__/
 *.pyc
