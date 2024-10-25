@@ -11,4 +11,4 @@
 ## Installation
 
 ```bash
-pip install minipass
+pip install -i https://test.pypi.org/simple/ minipass==0.1.0
