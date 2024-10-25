@@ -43,7 +43,7 @@ class PasswordChecker:
         # Check for common patterns
         if any(pattern in password for pattern in self.common_patterns):
             score -= 2
-            suggestions.append("Avoid common patterns like '1234', 'password', etc.")
+            suggestions.append("Avoid common patterns")
 
         # Score should be between 0 and 10
         score = max(0, min(10, score))
