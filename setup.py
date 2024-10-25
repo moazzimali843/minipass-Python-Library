@@ -8,7 +8,7 @@ setup(
     description="Minimal Password Strength Checker",
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/minipass",  # Update with your GitHub repository
+    url="https://github.com/moazzimali843/minipass-Python-Library.git",
     author="Moazzim Ali Bhatti",
     author_email="moazzim.ali843@gmail.com",
     license="MIT",
